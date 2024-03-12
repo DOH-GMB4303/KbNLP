@@ -1,0 +1,135 @@
+DSSU One-Pager.docx
+CSTE DSTT application v 2.0 CJB.docx
+CSTE DSTT application v 2.0.docx
+CSTE DSTT application v 2.0_OI.docx
+CSTE DSTT application v 3.0.docx
+CSTE DSTT application v 4.0.docx
+CSTE DSTT application v 4.5.docx
+DSTT application.docx
+DSTT members.docx
+Team Candidates.docx
+EDE Grant Writting Schedule.pdf
+ELC ED Expansion Workplan.docx
+ELC Enhancing Detection Expansion Guidance-12Jan2021-Final.pdf
+ELC Grant - Assignments.docx
+ELC Grant - Work Plan.docx
+NeglabsProjectOverview.docx
+Sequencing Flow Diagram_Annotated_v3.pdf
+Sequencing Project description.docx
+Sequencing_PreRequisites.docx
+Data Science – Statement of Principles.docx
+DSSU Projects.docx
+For Ben.docx
+Analytical Building Blocks Distribution.docx
+MO Epi Toolkit Draft.docx
+Proposed Way Forward.docx
+Unity Catalog - Retrograde & Risks Whitepaper.docx
+CDA - HTS_DOH Comparisons.docx
+Cloud Data Analytics - Work Group Review.docx
+Database Solution Assessment.docx
+DS_Huddle-Brian_SoftwareDev.docx
+Governance Timeline and Recommendations.docx
+Apache Hive Data Warehouse in Databricks – Documentation .docx
+Databricks - Recommendations.docx
+DBX - ODBC Setup Instructions.docx
+DSAW.docx
+Plan for Collecting and Reporting Negative Labs_Feb 2 2021_CW.docx
+Plan for Collecting and Reporting Negative Labs_Jan 14 2021_v4.docx
+GitHub Onboarding Guide.docx
+GitHub Onboarding Guide_DRAFT.docx
+GitHub Thoughts.docx
+Assumptions.docx
+IIS Data Sources.docx
+References and Resources.docx
+Negative Labs Process _01042021.docx
+Negative Labs Process _01052021.docx
+Negative Labs Process _01082021.docx
+Negative Labs Process _01112021.docx
+Negative Labs Process _01142021.docx
+Negative Labs Process _01202021.docx
+Negative Labs Process _01202021b.docx
+Negative Labs Process _12282020.docx
+Negative Labs Process _12292020.docx
+Negative Labs Process _12292020_v2.docx
+Negative Labs Process _12302020.docx
+Negative Labs Process _12312020.docx
+Negative Labs Process _20210125.docx
+Neglabs Alternative ProsCons (copy).docx
+Neglabs Alternative ProsCons.docx
+RunningMeetingNotes.docx
+Azure Setup Instructions.docx
+Knowledge Transfer Manual.docx
+Master Manual - Negative Labs Process .docx
+Master Manual - Revision 1.docx
+Negative Lab Records – Timing Guide.docx
+dataflow-eric_osiander.docx
+File Flow and Code Review Session Videos.docx
+Negative Flow - Overarching as of 1-29-2021.pdf
+Negative Lab Data Flow through DOH.pdf
+Negatives Architecture Diagrams.pdf
+QuickDBD-NegLabs.pdf
+MIF printing and upload process instructions_11102020.docx
+Create MIFs Static Testing Steps.docx
+Installing R Packages in Databricks.docx
+Negative Labs Code Migration Procedure.docx
+Negative Labs MIF Static Testing.docx
+Negative Labs Static Testing.docx
+Neg Lab Data Flow.docx
+Negative lab new process instructions_11102020.docx
+Negative Laboratory Data Flow through DOH (v2).pdf
+Negative Laboratory Data Flow through DOH.pdf
+Negative COVIDS Test Plan.docx
+Data Lake Unzip Instructions.docx
+Negative Laboratory Data Flow through DOH (v3).pdf
+PRELIMINARY_StaticTestingSteps.docx
+DEPRECATED - Escalation List.docx
+DRIVE Requirements with Technical Steps.docx
+Negative Labs Data Product Uses.docx
+DRAFT-Onboarding_Doc_.docx
+Document.docx
+2021 December Leave Tracker.docx
+Sequence Flowchart.docx
+Sequencing Project Transition Document.docx
+Testing Team WebEOC.docx
+~$C Transformation Script Items.docx
+~$readsheet Template Issues.docx
+POC Transformation Script Items.docx
+Spreadsheet Template Issues.docx
+Azure Data Catalog One Pager ver 1.0.docx
+MANTA_Ultimate_Guide_to_Data_Lineage.pdf
+Video Resources & Links.docx
+Data Catalog Walk-through.docx
+Data Classification Worksheet.docx
+GitHubBestPractices.docx
+8-steps-for-a-developer-to-learn-apache-spark-and-delta-lake_2.pdf
+Delta Lake - The Definitive Guide.pdf
+LearningSpark2.0.pdf
+HL7_questions.docx
+HL7 Assignment.docx
+long hl7 message summary.docx
+short hl7 errors.docx
+sqlite.docx
+YY.docx
+DSSU Training Curriculum.docx
+HL7 InteroperabilitySpecificationLabResultMessage_v2.5.1.pdf
+FAQ for BYOD MDM.docx
+Solutions to Big Data and Cloud Needs.docx
+Confidentiality Test.docx
+DRAFTGeneral Informatics Employee Onboarding_DataScienceSupport.docx
+PHOCIS Onboarding Document.pdf
+Timekeeping Instructions.docx
+CEDAR_Onboarding.docx
+DSSU Onboarding Guide - Copy.docx
+DSSU Onboarding Guide.docx
+DSSU Onboarding Guide_goodLinks.docx
+DSSU Onboarding Guide1.docx
+~$gative Labs Process _01112021.docx
+~$gative Labs Process _01202021.docx
+~$gative Labs Process _01202021b.docx
+~$gative Labs Process _12292020_v2.docx
+~$gative Labs Process _12302020.docx
+~$gative Labs Process _20210125.docx
+Negative Labs Process _20210210.docx
+DCHS OrgChart.pdf
+Updated Informatics Org Chart 1-4-2021.pdf
+WDRS Databases.docx
